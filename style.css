@@ -1,0 +1,43 @@
+p{
+    color: red;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+#mobilenet{
+    letter-spacing: 2px;  
+}
+.google_lens{
+    letter-spacing: 2px; 
+    color: black;
+}
+.img-responsive{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 300px;
+}
+.white1{
+    color: white;
+}
+span{
+    letter-spacing: 2px;
+}
+b{
+    color:darkcyan;
+}
+.first,.second{
+    background-color: lightcoral;
+    border-radius: 10px;
+    line-height: 2;
+}
+.text_image_and_result{
+    margin-top: 15px;
+    background-color: rgb(155,153,153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+h4{
+    font-weight: bold;
+}
